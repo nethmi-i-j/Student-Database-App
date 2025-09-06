@@ -1,6 +1,7 @@
 ## Console based Student Database Management App
 
-Used JDBC with PreparedStatement, Exception Handling and Close Resourses.
+The application supports CRUD (Create, Read, Update, Delete) operations. It uses JDBC with Statement, PreparedStatement and Exception Handling.
+It also uses the Java Scanner class to handle user input and includes proper resourse closing.
 
 ### Setup Instructions.
 
